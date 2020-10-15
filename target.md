@@ -26,7 +26,8 @@
 ### スケジュール/担当
 | 内容 | アームの座標計測 | 3Dデータ作成  | アームの移動コード |
 | :--: | :-------------: | :-----------: | :-------------: |
-| 担当 |  |  |  |
+| 担当 | [Mitsuike](https://github.com/SomaMitsuike) | [Ikeda](https://github.com/ikeda-hitomi) | [Nkajima](https://github.com/Isamu-Nakajima) |
+| 　　 | [Kamioka](https://github.com/rlove1023) | [Mibuchi](http://github.com/mibuchiyuta) | [Sakamoto](https://github.com/Sakamoto-Takaya) |
 | 期日 | 未定 | 未定 | 未定 |
 
 ### 現状
