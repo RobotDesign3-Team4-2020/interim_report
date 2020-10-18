@@ -1,7 +1,7 @@
 # 中間発表の目標
 
 ## ロボットアームと消毒スプレーによるうんこの消毒
-
+ <img src="https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture1.png" width="400">
 ### 動機
 - うんこは消毒されるべきなのかを多くの人に訴えたい
 
