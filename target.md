@@ -1,9 +1,19 @@
 # 中間発表の目標
 
 ## ロボットアームと消毒スプレーによるうんこの消毒
- <img src="https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture1.png" width="400" border="5″ alt="1枚目" >  
- 
 ### 動機
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture1.png" width="400" >
+ あ！うんこがいるよ！消毒しなきゃ！
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture2.png" width="400" >
+ 君こっち来いよ！
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture3.png" width="400" >
+ これで清潔なうんこになるんだ…
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture4.png" width="400" >
+ わーい！綺麗になったよ！
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture5.png" width="400" >
+ こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
+ 
+### 何が面白いか
 - うんこは消毒されるべきなのかを多くの人に訴えたい
 
 ### 使用する道具
