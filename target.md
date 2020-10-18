@@ -39,8 +39,6 @@
 | :--: | :-------------: | :-----------: | :-------------: |
 | 担当 | [Mitsuike](https://github.com/SomaMitsuike) | [Ikeda](https://github.com/ikeda-hitomi) | [Nakajima](https://github.com/Isamu-Nakajima) |
 | 　　 | [Kamioka](https://github.com/rlove1023) | [Mibuchi](http://github.com/mibuchiyuta) | [Sakamoto](https://github.com/Sakamoto-Takaya) |
-| 期日 | 10/21 | 10/26 | 11/9 |
+| 期日 | 10/26 | 10/21 | 11/9 |
 
 なお担当の作業が終わり次第,次に近い期日の作業を手伝うこととする
-
-### 現状
