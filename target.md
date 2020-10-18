@@ -37,8 +37,10 @@
 ### スケジュール/担当
 | 内容 | アームの座標計測 | 3Dデータ作成  | アームの移動コード |
 | :--: | :-------------: | :-----------: | :-------------: |
-| 担当 | [Mitsuike](https://github.com/SomaMitsuike) | [Ikeda](https://github.com/ikeda-hitomi) | [Nkajima](https://github.com/Isamu-Nakajima) |
+| 担当 | [Mitsuike](https://github.com/SomaMitsuike) | [Ikeda](https://github.com/ikeda-hitomi) | [Nakajima](https://github.com/Isamu-Nakajima) |
 | 　　 | [Kamioka](https://github.com/rlove1023) | [Mibuchi](http://github.com/mibuchiyuta) | [Sakamoto](https://github.com/Sakamoto-Takaya) |
-| 期日 | 未定 | 未定 | 未定 |
+| 期日 | 10/21 | 10/26 | 11/9 |
+
+なお担当の作業が終わり次第,次に近い期日の作業を手伝うこととする
 
 ### 現状
