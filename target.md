@@ -19,8 +19,9 @@
 ### 使用する道具
 - crane_x7
 - ubuntu18.04(WSL/Desktop)
- - 
- - 
+ - Gazebo
+ - Inventor
+ - rviz
 - うんこ(のおもちゃ)
 - 噴射型のアルコール(のようなもの)
 
