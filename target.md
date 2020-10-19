@@ -18,6 +18,7 @@
 
 ### 使用する道具
 - crane_x7
+- ubuntu18.04(WSL/Desktop)
 - うんこ(のおもちゃ)
 - 噴射型のアルコール(のようなもの)
 
@@ -26,7 +27,7 @@
 2． スプレーの噴射口の下にうんこを移動する  
 3． うんこを置く  
 4． スプレーの上部にアームを移動させる  
-5． 垂直に任意の高さアームを下げ,アルコールを噴射させる  
+5． 垂直に任意の高さまでアームを下げ,アルコールを噴射させる  
 
 ### やらなきゃいけないこと
 1. アームを移動させたときの各座標データをとる  
@@ -39,7 +40,7 @@
 | :--: | :-------------: | :-----------: | :-------------: | :-------------: |
 | 担当 | [Mitsuike](https://github.com/SomaMitsuike) | [Ikeda](https://github.com/ikeda-hitomi) | [Nakajima](https://github.com/Isamu-Nakajima) | [Mibuchi](http://github.com/mibuchiyuta) |
 | 　　 | [Kamioka](https://github.com/rlove1023) | [Mibuchi](http://github.com/mibuchiyuta) | [Sakamoto](https://github.com/Sakamoto-Takaya) |
-| 期日 | 10/26 | 10/21 | 11/9 | 11/9 
+| 期日 | 10/26 | 10/21 | 11/15 | 11/15 |
 
 なお担当の作業が終わり次第,次に近い期日の作業を手伝うこととする
 
