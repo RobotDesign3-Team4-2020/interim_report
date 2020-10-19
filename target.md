@@ -46,3 +46,4 @@
 ### チームアップから第一週目のやったこと
 - [Move itで容器をプッシュさする動作をさせてみた](https://www.youtube.com/watch?v=xksuRjdeR2U&feature=youtu.be)
 - gazeboにインベンターからのデータを反映させられないかやってみた→STLデータを出力してそれを反映させるのは難しそう？
+- githubでプルリクとマージを全員やってみる
