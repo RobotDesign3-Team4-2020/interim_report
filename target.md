@@ -2,14 +2,14 @@
 
 ## ロボットアームと消毒スプレーによるうんこの消毒
 ### 動機
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture1.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture1.png" width="400" >
  あ！うんこがいるよ！消毒しなきゃ！
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture2.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture2.png" width="400" >
  君こっち来いよ！
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture3.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture3.png" width="400" >
  これで清潔なうんこになるんだ…
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture4.png" width="400" >
- <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/picture5.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture4.png" width="400" >
+ <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture5.png" width="400" >
  わーい！綺麗になったよ！
  こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
  
