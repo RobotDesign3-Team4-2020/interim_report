@@ -10,22 +10,27 @@
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture4.png" width="400" >
  <img src= "https://github.com/RobotDesign3-Team4-2020/interim_report/blob/master/img/picture5.png" width="400" >
  わーい！綺麗になったよ！
- こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ
-### 何が面白い？
-- うんこが消毒される
+ こうしてcrane-x7くんは清潔なうんこくんと仲良く暮らしましたとさ  
+ 
+### 何が面白い？  
+- うんこが消毒される  
 - 
-### 使用した道具
-- crane_x7  
-- ubuntu18.04(WSL/Desktop)
-  - Gazebo
-  - rviz
-- Inventor
-- うんこのおもちゃ  
+
+### 使用した道具  
+- crane_x7    
+- ubuntu18.04(WSL/Desktop)  
+  - Gazebo  
+  - rviz  
+- Inventor  
+- うんこのおもちゃ   
 - 噴射型のアルコール
+
 ###  実行環境
 - ubuntu18.04
 - ROS 
+
 ### 実機操作説明
+
 #### モデル配置
 - 用意するもの
   - うんこのおもちゃ
