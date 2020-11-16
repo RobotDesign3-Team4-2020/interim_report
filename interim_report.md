@@ -24,7 +24,7 @@
   - rviz  
 - Inventor  
 - うんこのおもちゃ   
-- 噴射型のアルコール
+- 据え置き型アルコールスプレー
 
 ###  実行環境
 - ubuntu18.04
@@ -44,11 +44,12 @@
 
 #### 実機の動かし方
 READMEに従ってください
-README url
+[README](https://github.com/RobotDesign3-Team4-2020/crane_x7_ros/blob/unko_shodoku_try/crane_x7_examples/README.md)
+
 
 ### プログラム説明
 
-Move it を使って姿勢を指定して アルコールスプレーに当たらないようにした
+- [コメント付きソースコード](https://github.com/RobotDesign3-Team4-2020/crane_x7_ros/blob/R.kamioka/crane_x7_examples/scripts/try_third.py)
 
 ### 実演動画
 [![うんこを消毒](https://i9.ytimg.com/vi/FMTXlpocT58/mq2.jpg?sqp=CJisx_0F&rs=AOn4CLCmc1RQ60qa4UNeHhZr6m1B__A6jQ)](https://www.youtube.com/watch?v=FMTXlpocT58&feature=youtu.be "うんこを消毒")  
